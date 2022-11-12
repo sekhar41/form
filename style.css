@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+
+.AB{
+    margin-top: 60px;
+}
+#name{
+    margin-left: 60px;
+}
+#email{
+    margin-left: 92px;
+}
+#password{
+    margin-left: 70px;
+}
+#phonenumber{
+    margin-left: 40px;
+}
+#date{
+    margin-left: 50px;
+}
+#sub{
+    margin-left: 170px;
+}
